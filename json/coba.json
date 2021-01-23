@@ -1,0 +1,30 @@
+[
+    {
+        "nama"  : "Saiful Labib Marzuqi Hidayat",
+        "umur"  : 20,
+        "nim"   : "17090144",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1"   : "Ginanjar Wiro Sasmito",
+            "pembimbing2"   : "Dega Surono Wibowo"
+        }
+    },
+    {
+        "nama"  : "Saiful Labib Marzuqi Hidayat",
+        "umur"  : 20,
+        "nim"   : "17090144",
+        "lulus" : true,
+        "hobby" : [
+            "coding",
+            "gaming"
+        ],
+        "pembimbing" : {
+            "pembimbing1"   : "Ginanjar Wiro Sasmito",
+            "pembimbing2"   : "Dega Surono Wibowo"
+        }
+    }
+]
